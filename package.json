@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/andycr123/node-equalize-restapi/issues"
   },
-  "homepage": "https://github.com/andycr123/node-equalize-restapi#readme"
+  "homepage": "https://github.com/andycr123/node-equalize-restapi#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "morgan": "^1.10.0",
+    "pg": "^8.11.2",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.32.1"
+  }
 }
